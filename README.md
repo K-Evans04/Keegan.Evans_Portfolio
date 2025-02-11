@@ -1,3 +1,5 @@
+Table of Contents
+_________________
 Assignment 2: Linked List Homework\
 Assignment 3: Stacks Homework\
 Assignment 4: Queues Homework, with Partner Bohdi Norvell\
