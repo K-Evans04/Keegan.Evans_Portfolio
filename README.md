@@ -1,8 +1,8 @@
 Table of Contents
 _________________
-Assignment 2: Linked List Homework\
-Assignment 3: Stacks Homework\
-Assignment 4: Queues Homework, with Partner Bohdi Norvell\
-Assignment 5: Sorting Homework\
-Assignment 6: Binary Trees and Binary Search Trees Homework, with Partner Bohdi Norvell\
-Assignment 7: Graphs Homework
+Assignment 2: Linked List\
+Assignment 3: Stacks\
+Assignment 4: Queues, with Partner Bohdi Norvell\
+Assignment 5: Sorting\
+Assignment 6: Binary Trees and Binary Search Trees, with Partner Bohdi Norvell\
+Assignment 7: Graphs
